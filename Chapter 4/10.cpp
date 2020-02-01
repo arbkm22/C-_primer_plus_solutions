@@ -13,6 +13,7 @@ int main(void) {
     cout << "3rd value: " << dash[2] << endl;
     float average = (dash[0]+dash[1]+dash[2]) / 3;
     cout << "Average value is: " << average << endl;
+    cout << "Code succesfully compiled." << endl;
 
     return 0;
 }
